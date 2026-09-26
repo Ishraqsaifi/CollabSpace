@@ -1,4 +1,4 @@
-# DocuSync Enterprise Engine
+# DocSync Enterprise Engine
 ### Distributed, Real-Time Collaborative Workspace Engine with CRDT Conflict Resolution & RAG AI
 [![Java Version](https://img.shields.io/badge/Java-21-orange.svg?style=flat-square&logo=openjdk)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.x-brightgreen.svg?style=flat-square&logo=springboot)](https://spring.io/projects/spring-boot)
